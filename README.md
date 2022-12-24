@@ -1,1 +1,1 @@
-# ESP8266-trilateration-node
+# ESP8266-sniffer-node
